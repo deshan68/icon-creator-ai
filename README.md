@@ -1,34 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# iconCretorAI
 
-## Getting Started
+Icon Creator AI is a web application that allows you to generate icons with the power of artificial intelligence. With this app, you can easily create custom icons for your projects.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+![1](https://github.com/deshan68/icon-creator-ai/assets/73057755/7a235897-204a-4ac6-a79c-841378804759)
+![2](https://github.com/deshan68/icon-creator-ai/assets/73057755/ae290587-41dc-430d-916f-877b0e34ab8e)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- AI-Powered Icon Generation
+  - Quickly generate icons for your projects.
+- User Authentication
+  - Sign up and log in securely with Firebase Authentication.
+- Icon Management
+  - Save and organize your created icons.
+- MongoDB Integration
+  - Store and retrieve icons from a MongoDB database.
+- Responsive Design
+  - The app is designed to work seamlessly on both desktop and mobile devices.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Technologies Used
 
-## Learn More
+- **Next.js**: A React framework for building server-rendered applications.
+- **Tailwind CSS**: A utility-first CSS framework for building responsive and customizable designs.
+- **Firebase**: Provides authentication and real-time database functionality.
+- **MongoDB**: A NoSQL database for storing user-generated icons.
 
-To learn more about Next.js, take a look at the following resources:
+## Figma Design
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+You can view our Figma design file to see the wireframes and design concepts for the Icon Creator AI web app:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[Figma Design](https://www.figma.com/file/u3n0VH3UN2y7BTnCFwf8bv/iconCreatorAi.com-wireframe?type=design&node-id=0%3A1&mode=design&t=Bq0vLDfr9NCdNWuB-1)
